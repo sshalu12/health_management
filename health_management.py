@@ -1,3 +1,7 @@
+# program which contain six files for 3 person in which we can store and reterive the data of food and excercise of 3 person.
+#when we lock the data it lock in the file with time stamp
+
+
 def getdata():
     import datetime
     return datetime.datetime.now()
